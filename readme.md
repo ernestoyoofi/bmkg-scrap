@@ -10,6 +10,9 @@
 ```bash
 npm install --save @ernestoyoofi/bmkg-scrap
 ```
+```bash
+npm i github:ernestoyoofi/bmkg-scrap
+```
 ```js
 // Imports Module
 const BMKG = require("@ernestoyoofi/bmkg-scrap")
