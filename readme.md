@@ -19,7 +19,7 @@ const BMKG = require("@ernestoyoofi/bmkg-scrap")
 ```
 
 *Manual Installation* <br/>
-if you not using npm, you can download or clone this repository
+if you not using npm, you can [download](https://github.com/ernestoyoofi/bmkg-scrap/archive/refs/heads/main.zip) or [clone](https://github.com/ernestoyoofi/bmkg-scrap.git) this repository
 ```bash
 git clone https://github.com/ernestoyoofi/bmkg-scrap.git
 ```
